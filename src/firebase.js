@@ -13,7 +13,7 @@ const firebaseConfig = {
   measurementId: "G-V5RM3M5FSF"
 };
 
-firebase.initializeApp(firebaseConfig);
+// firebase.initializeApp(firebaseConfig);
 // var database = firebase.firestore();
 // export default database;
 
